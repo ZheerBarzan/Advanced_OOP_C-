@@ -3,4 +3,6 @@ project(Advanced_OOP_C__)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Advanced_OOP_C__ main.cpp)
+add_executable(Advanced_OOP_C__
+        Lab_1/Question_1.cpp
+)
